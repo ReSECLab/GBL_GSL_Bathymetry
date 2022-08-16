@@ -1,3 +1,3 @@
 # GBL_GSL_Bathymetry
 
-Great Slave Lake and Great Bear Lake depth
+Great Slave Lake and Great Bear Lake depth in ".tif' formats
